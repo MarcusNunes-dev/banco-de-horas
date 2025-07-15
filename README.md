@@ -11,7 +11,7 @@ A automação realiza:
 - Formatação e exibição dos dados salariais e de horas.
 - Salvamento automático do arquivo em diretório específico.
 
-## ⚙Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - **VBA (Visual Basic for Applications)**: lógica de extração e criação das planilhas.
 - **SQL (TOTVS / RM Reports)**: consultas para saldo.
